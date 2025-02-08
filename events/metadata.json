@@ -1,4 +1,18 @@
 {
+  "Foss HACK": {
+    "name": "Foss HACK",
+    "tag": ["Hackathon", "FOSS", "FOSS-United"],
+  	"when": {
+  	  "date": "22",
+  	  "month": "febrarury",
+  	  "year": "2025"
+  	},
+  	"till": {
+  	  "date": "23",
+  	  "month": "febrarury",
+  	  "year": "2025"
+  	}
+  },
   "India Foss": {
     "name": "India Foss",
     "tag": "A National Level Open-Source Event",
