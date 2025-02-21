@@ -1,0 +1,55 @@
+{
+  "name": "Dikashma Shree Selvakumaran",
+  "pic": {
+    "url": "https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/hoomans/crazywomanpic.jpg",
+    "alt": "dikashma-shree-selvakumaran"
+  },
+  "type": "member",
+  "aka": "D...D...Dikshaama",
+  "skincolor": "#AD8668",
+  "quote": "Physics without mathematics is science fiction, and mathematics without physics is too abstract.",
+  "maintaining": [],
+  "skills": [
+    {
+      "name": "Machine Learning & Deep Learning",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Fullstack Development",
+      "level": "Basic"
+    },
+    {
+      "name": "Competitive Programming",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Julia",
+      "level": "Intermediate"
+    }
+  ],
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/Dikashmashree"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/dikashma-shree-s/"
+    }
+  ],
+  "contact": {
+    "mail": "dikashma285@gmail.com",
+    "discord": "dikashmashree_37826"
+  },
+  "body": {
+    "height": "166cm",
+    "weight": "56kg"
+  },
+  "hit ratio": "XXX",
+  "gallery": [
+    {
+      "url": "",
+      "alt": ""
+    }
+  ]
+}

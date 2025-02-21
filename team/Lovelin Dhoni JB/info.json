@@ -4,7 +4,7 @@
     "url": "https://raw.githubusercontent.com/bitspaceorg/ass-ets/refs/heads/main/hoomans/MSD.jpg",
     "alt": "Lovelin Dhoni JB"
   },
-  "type": "member",
+  "type": "mentor",
   "aka": "loves",
   "skincolor": "#39322C",
   "quote": "The soul tries a thousand remedies in vain; since I was captured, it’s been struggling in vain to get back on its earlier road. The sea, and the mountain, and the fire with the sword. I live in the midst of all of these together. The one who’s deprived me of my mind, and taken away my reason, won’t let me up the mountain.",
@@ -16,12 +16,12 @@
   ],
   "skills": [
     {
-      "name": "Fullstack Development",
+      "name": "Distributed Systems",
       "level": "Intermediate"
     },
     {
-      "name": "Distributed Systems",
-      "level": "Intermediate"
+      "name": "Fullstack Development",
+      "level": "Advanced"
     },
     {
       "name": "NVIM",

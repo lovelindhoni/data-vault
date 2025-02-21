@@ -207,7 +207,7 @@
       "url": "https://raw.githubusercontent.com/bitspaceorg/ass-ets/refs/heads/main/hoomans/MSD.jpg",
       "alt": "Lovelin Dhoni JB"
     },
-    "type": "member",
+    "type": "mentor",
     "aka": "loves",
     "quote": "The soul tries a thousand remedies in vain; since I was captured, it’s been struggling in vain to get back on its earlier road. The sea, and the mountain, and the fire with the sword. I live in the midst of all of these together. The one who’s deprived me of my mind, and taken away my reason, won’t let me up the mountain.",
     "links": [
@@ -234,6 +234,42 @@
       },
       {
         "url": "https://www.linkedin.com/in/jananikkumar"
+      }
+    ]
+  },
+  "Ajay B": {
+    "name": "Ajay B",
+    "pic": {
+      "url": "https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/hoomans/ajay.jpg",
+      "alt": "Ajay B"
+    },
+    "type": "member",
+    "aka": "Next.js",
+    "quote": "My attitude during exams.\n They give me questions I don’t know.\n I give them answers they don’t know.",
+    "links": [
+      {
+        "url": "https://github.com/ajaybalajiprasad/"
+      },
+      {
+        "url": "https://www.linkedin.com/in/ajay002/"
+      }
+    ]
+  },
+  "Dikashma Shree Selvakumaran": {
+    "name": "Dikashma Shree Selvakumaran",
+    "pic": {
+      "url": "https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/hoomans/crazywomanpic.jpg",
+      "alt": "Dikashma Shree Selvakumaran"
+    },
+    "type": "member",
+    "aka": "D...D...Dikshaama",
+    "quote": "Physics without mathematics is science fiction, and mathematics without physics is too abstract.",
+    "links": [
+      {
+        "url": "https://github.com/Dikashmashree"
+      },
+      {
+        "url": "https://www.linkedin.com/in/dikashma-shree-s/"
       }
     ]
   }

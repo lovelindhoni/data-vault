@@ -1,0 +1,56 @@
+{
+  "name": "Ajay B",
+  "pic": {
+    "url": "https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/hoomans/ajay.jpg",
+    "alt": "ajay"
+  },
+  "type": "member",
+  "aka": "Next.js",
+  "skincolor": "#FCE57E",
+  "quote": "My attitude during exams.\n They give me questions I don’t know.\n I give them answers they don’t know.",
+  "maintaining": [
+    {
+      "project name": "ZIDE",
+      "repo url": "https://github.com/bitspaceorg/zide"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Competitive Programming",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Fullstack Development",
+      "level": "Advanced"
+    },
+    {
+      "name": "VIM",
+      "level": "Basic"
+    }
+  ],
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/ajaybalajiprasad/"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/ajay002/"
+    }
+  ],
+  "contact": {
+    "mail": "ajaybalajiprasad002@gmail.com",
+    "discord": "kodliebe_aj"
+  },
+  "body": {
+    "height": "XXX",
+    "weight": "XXX"
+  },
+  "hit ratio": "XXX",
+  "gallery": [
+    {
+      "url": "",
+      "alt": ""
+    }
+  ]
+}
